@@ -65,8 +65,8 @@ The API will be available at `http://localhost:8000`
 
 Environment variables (set in `.env` file):
 
-- `DATABASE_URL` - Database connection string (default: sqlite:///./books.db)
-- `REDIS_URL` - Redis connection string (default: redis://localhost:6379)
+- `DATABASE_URL` - Database connection string 
+- `REDIS_URL` - Redis connection string 
 - `API_HOST` - API host (default: 0.0.0.0)
 - `API_PORT` - API port (default: 8000)
 
